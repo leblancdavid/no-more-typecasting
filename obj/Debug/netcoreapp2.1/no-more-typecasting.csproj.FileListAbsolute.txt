@@ -1,0 +1,11 @@
+F:\Projects\Prototype\no-more-typecasting\bin\Debug\netcoreapp2.1\no-more-typecasting.deps.json
+F:\Projects\Prototype\no-more-typecasting\bin\Debug\netcoreapp2.1\no-more-typecasting.runtimeconfig.json
+F:\Projects\Prototype\no-more-typecasting\bin\Debug\netcoreapp2.1\no-more-typecasting.runtimeconfig.dev.json
+F:\Projects\Prototype\no-more-typecasting\bin\Debug\netcoreapp2.1\no-more-typecasting.dll
+F:\Projects\Prototype\no-more-typecasting\bin\Debug\netcoreapp2.1\no-more-typecasting.pdb
+F:\Projects\Prototype\no-more-typecasting\obj\Debug\netcoreapp2.1\no-more-typecasting.csprojAssemblyReference.cache
+F:\Projects\Prototype\no-more-typecasting\obj\Debug\netcoreapp2.1\no-more-typecasting.csproj.CoreCompileInputs.cache
+F:\Projects\Prototype\no-more-typecasting\obj\Debug\netcoreapp2.1\no-more-typecasting.AssemblyInfoInputs.cache
+F:\Projects\Prototype\no-more-typecasting\obj\Debug\netcoreapp2.1\no-more-typecasting.AssemblyInfo.cs
+F:\Projects\Prototype\no-more-typecasting\obj\Debug\netcoreapp2.1\no-more-typecasting.dll
+F:\Projects\Prototype\no-more-typecasting\obj\Debug\netcoreapp2.1\no-more-typecasting.pdb
